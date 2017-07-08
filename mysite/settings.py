@@ -26,7 +26,8 @@ SECRET_KEY = 'x-4g%ifi!@yv^*_l9-k&*mvfbpp%b@-5dooti1@q$c(^j1#$zs'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'Menggeh.pythonanywhere.com']
- Application definition
+
+# Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
